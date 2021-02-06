@@ -8,4 +8,4 @@ Java Serial Communications Programming project for my University course, Compute
  * gps request
  * arq request
  
-This class architecture was chosen for the development of the user application, in order to make validation and debugging easier. Throughout the project we communicate with the virtual server "Ithaki" to make the requests and receive the output data. In the reports included in this repository, we present the various results for two separate sessions.
+This class architecture was chosen for the development of the user application, in order to make validation and debugging easier. Throughout the project we communicate with the virtual server "Ithaki" to make the requests and receive the output data. In the reports included in this repository, the results for two separate sessions are presented and analyzed.
